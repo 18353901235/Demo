@@ -6,5 +6,4 @@ void main()
 	printf("enter a number:");
 	scanf("%d",&number);
 	printf("cube of number is:%d \n",number*number*number);
-	getch();
 }
